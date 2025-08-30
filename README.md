@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Caroline Ferreira de Souza  
 
 🎓 Estudante de **Engenharia de Software** no Inatel  
-💡 Interesse em **Desenvolvimento de Software, Mobile, Redes de Computadores e IoT**  
+💡 Interesse em **Desenvolvimento de Software, Mobile, Redes de Computadores**  
 🚀 Projetos recentes: **Pet Help (Flutter & Dart)**, **Robô Seguidor de Linha (Arduino)**  
 
 ---
