@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caroline Ferreira de Souza  
+# 👩🏻‍💻 Bem-vindo(a) ao meu perfil! 
 
 🎓 Estudante de **Engenharia de Software** no Inatel  
 💻 Foco em **Desenvolvimento de Software, Mobile e Redes de Computadores**  
