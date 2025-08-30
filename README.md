@@ -20,5 +20,5 @@
 ---
 
 ## 🌐 Onde me encontrar  
-🔗 [LinkedIn](https://www.linkedin.com/in/carolineferreiradesouza) 💻 [GitHub](https://github.com/carolferreirauai) 📸 [Instagram](https://www.instagram.com/carolferreirauai)  
+🔗 [LinkedIn](https://www.linkedin.com/in/carolineferreiradesouza) 📸 [Instagram](https://www.instagram.com/carolferreirauai)  
 📧 Email: carolferreira.cf699@gmail.com
