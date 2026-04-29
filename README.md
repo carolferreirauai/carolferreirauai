@@ -13,12 +13,6 @@
 
 ---
 
-## 📌 Projetos em Destaque  
-- 🐾 [**Pet Help**](https://github.com/carolferreirauai/pethelp) – App para apoio a ONGs de proteção animal (adoções & doações).
-- 🤖 [**Robô Seguidor de Linha**](https://github.com/carolferreirauai/robo) – Projeto com Arduino e sensores IR.  
-
----
-
 ## 🌐 Onde me encontrar  
 🔗 [LinkedIn](https://www.linkedin.com/in/carolineferreiradesouza) 📸 [Instagram](https://www.instagram.com/carolferreirauai)  
 📧 Email: carolferreira.cf699@gmail.com
