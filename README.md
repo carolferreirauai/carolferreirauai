@@ -67,7 +67,7 @@ caroline = {
 
 ### 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolineferreiradesouza)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:carolferreira.cf699@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=carolferreira.cf699@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red?&logo=adobeacrobatreader&logoColor=white)](https://github.com/carolferreirauai/carolferreirauai/blob/main/curriculo_caroline_ferreira.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:333333,100:808080&section=footer"/>
