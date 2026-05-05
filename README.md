@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:808080,100:333333&text=Caroline%20Ferreira%20de%20Souza&section=header&fontSize=40&fontAlign=50&fontColor=FF0000&fontFamily=Cascadia+Code,Consolas,Courier+New,monospace"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:808080,100:333333&text=Caroline%20Ferreira%20de%20Souza&section=header&fontSize=40&fontAlign=50&fontColor=808080&fontFamily=Cascadia+Code,Consolas,Courier+New,monospace"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&pause=1000&color=FF0000&center=true&width=510&height=51&lines=BEM+-+VINDO(A)+AO+MEU+PERFIL!;Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+de+Software+e+Mobile;.cpp%2C+.py%2C+.html%2C+.css%2C+.js%2C+.dart;+Git%2FGitHub%2C+Arduino%2C+Arduino+IDE%2C+Linux%2C+Eagle+PCB%2C+Fusion+360+CAD;Scrum%2C+OKR%2C+Kanban)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&pause=1000&color=808080&center=true&width=510&height=51&lines=BEM+-+VINDO(A)+AO+MEU+PERFIL!;Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+de+Software+e+Mobile;.cpp%2C+.py%2C+.html%2C+.css%2C+.js%2C+.dart;+Git%2FGitHub%2C+Arduino%2C+Arduino+IDE%2C+Linux%2C+Eagle+PCB%2C+Fusion+360+CAD;Scrum%2C+OKR%2C+Kanban)](https://git.io/typing-svg)
 
 </div>
 
