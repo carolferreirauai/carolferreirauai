@@ -33,13 +33,14 @@ caroline = {
 | Web & Estruturas | <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
 | Mobile | <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
 | Sistemas | <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+| Game Dev | <img src="https://img.shields.io/badge/GameMaker-000000?logo=gamemaker&logoColor=white"/>
 | Metodologia | <img src="https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/OKR-FF6B6B?logo=target&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white"/>
 
 </div>
 
 ---
 
-### 🚀Projetos em desevolvimento
+### 🚀Projetos em desenvolvimento
 
 <div align="center">
 
@@ -47,6 +48,7 @@ caroline = {
 |---------|-----------|------------|
 | **Biochallenge - Orienta+** | O Orienta+ transforma informação em orientação prática, ajudando pessoas trans a acessarem o SUS com mais autonomia, segurança e clareza. | <img src="https://skillicons.dev/icons?i=js,html,css" width="75"/> |
 | **FETIN - Safe Voice** | É uma solução tecnológica voltada à segurança da mulher, projetada para atuar de forma discreta, preventiva e acessível. | <img src="https://skillicons.dev/icons?i=js,html,css" width="75"/> |
+| **CPG GameJam — Orbitando** | Jogo desenvolvido em 36 horas na maratona CPG do INATEL (tema: *Ctrl + Alt + Math*). A Orbi precisa voltar ao seu planeta mantendo energia, oxigênio e integridade da nave — resolvendo puzzles matemáticos para sobreviver. | <img src="https://img.shields.io/badge/GameMaker-000000?logo=gamemaker&logoColor=white"/> |
 
 </div>
 
