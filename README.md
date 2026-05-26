@@ -72,6 +72,7 @@ caroline = {
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=carolferreira.cf699@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red?&logo=adobeacrobatreader&logoColor=white)](https://github.com/carolferreirauai/carolferreirauai/blob/main/curriculo_caroline_ferreira.pdf)
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-104A7F?)](http://lattes.cnpq.br/5376606359253552)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&logo=itch.io&logoColor=white)](https://carolferreirauai.itch.io)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:333333,100:808080&section=footer"/>
 
